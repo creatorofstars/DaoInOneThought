@@ -1,0 +1,4 @@
+{"$message_type":"diagnostic","level":"warning","loc":{"path":"E:\\MoonBitProject\\Survivors\\Enemy.mbt","start":{"line":155,"col":20},"end":{"line":155,"col":21}},"message":"Warning: Unused variable 'e'","error_code":2}
+{"$message_type":"diagnostic","level":"warning","loc":{"path":"E:\\MoonBitProject\\Survivors\\Survivors.mbt","start":{"line":391,"col":12},"end":{"line":391,"col":17}},"message":"Warning: Unused variable 'state'","error_code":2}
+{"$message_type":"diagnostic","level":"warning","loc":{"path":"E:\\MoonBitProject\\Survivors\\Upgrade.mbt","start":{"line":51,"col":11},"end":{"line":51,"col":12}},"message":"Warning: Unused variable 'v'","error_code":2}
+{"$message_type":"diagnostic","level":"warning","loc":{"path":"E:\\MoonBitProject\\Survivors\\WeaponTwo.mbt","start":{"line":6,"col":3},"end":{"line":6,"col":8}},"message":"Warning: Field 'count' is never read","error_code":7}
